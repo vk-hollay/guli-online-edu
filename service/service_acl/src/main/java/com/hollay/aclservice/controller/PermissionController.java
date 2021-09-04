@@ -13,9 +13,7 @@ import java.util.List;
  * <p>
  * 权限 菜单管理
  * </p>
- *
- * @author testjava
- * @since 2020-01-12
+
  */
 @RestController
 @RequestMapping("/admin_/acl/permission")

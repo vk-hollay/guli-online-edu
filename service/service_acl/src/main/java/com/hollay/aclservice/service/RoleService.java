@@ -10,9 +10,6 @@ import java.util.Map;
  * <p>
  *  服务类
  * </p>
- *
- * @author testjava
- * @since 2020-01-12
  */
 public interface RoleService extends IService<Role> {
 

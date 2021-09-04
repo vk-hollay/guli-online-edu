@@ -15,9 +15,6 @@ import java.util.Map;
  * <p>
  * 课程 服务类
  * </p>
- *
- * @author hollay
- * @since 2021-07-20
  */
 public interface EduCourseService extends IService<EduCourse> {
 

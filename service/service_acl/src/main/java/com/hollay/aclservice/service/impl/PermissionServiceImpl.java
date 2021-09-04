@@ -24,9 +24,6 @@ import java.util.List;
  * <p>
  * 权限 服务实现类
  * </p>
- *
- * @author testjava
- * @since 2020-01-12
  */
 @Service
 public class PermissionServiceImpl extends ServiceImpl<PermissionMapper, Permission> implements PermissionService {

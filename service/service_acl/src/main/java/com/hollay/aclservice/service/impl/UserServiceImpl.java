@@ -11,9 +11,6 @@ import org.springframework.stereotype.Service;
  * <p>
  * 用户表 服务实现类
  * </p>
- *
- * @author testjava
- * @since 2020-01-12
  */
 @Service
 public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements UserService {

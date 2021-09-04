@@ -16,9 +16,6 @@ import java.util.List;
  * <p>
  * 课程科目 前端控制器
  * </p>
- *
- * @author hollay
- * @since 2021-07-18
  */
 @RestController
 @RequestMapping("/eduservice/subject")

@@ -25,9 +25,7 @@ import java.util.ArrayList;
  * <p>
  * 登录过滤器，继承UsernamePasswordAuthenticationFilter，对用户名密码进行登录校验
  * </p>
- *
- * @author qy
- * @since 2019-11-08
+
  */
 public class TokenLoginFilter extends UsernamePasswordAuthenticationFilter {
 

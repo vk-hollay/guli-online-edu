@@ -16,9 +16,6 @@ import lombok.experimental.Accessors;
  * <p>
  * 讲师
  * </p>
- *
- * @author hollay
- * @since 2021-05-07
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

@@ -14,9 +14,6 @@ import org.springframework.web.bind.annotation.*;
  * <p>
  * 课程视频 前端控制器
  * </p>
- *
- * @author hollay
- * @since 2021-07-20
  */
 @RestController
 @RequestMapping("/eduservice/video")

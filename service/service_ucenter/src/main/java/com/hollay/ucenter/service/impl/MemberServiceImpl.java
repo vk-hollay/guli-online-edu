@@ -23,8 +23,6 @@ import javax.servlet.http.HttpServletRequest;
  * 会员表 服务实现类
  * </p>
  *
- * @author hollay
- * @since 2021-08-08
  */
 @Service
 public class MemberServiceImpl extends ServiceImpl<MemberMapper, Member> implements MemberService {

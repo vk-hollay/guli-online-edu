@@ -24,8 +24,6 @@ import java.util.Map;
  * 支付日志表 服务实现类
  * </p>
  *
- * @author hollay
- * @since 2021-08-12
  */
 @Service
 public class PayLogServiceImpl extends ServiceImpl<PayLogMapper, PayLog> implements PayLogService {

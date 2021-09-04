@@ -14,9 +14,6 @@ import lombok.experimental.Accessors;
  * <p>
  * 首页banner表
  * </p>
- *
- * @author hollay
- * @since 2021-08-05
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

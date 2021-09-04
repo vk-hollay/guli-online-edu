@@ -9,8 +9,6 @@ import com.hollay.ucenter.entity.Vo.RegisterVo;
  * 会员表 服务类
  * </p>
  *
- * @author hollay
- * @since 2021-08-08
  */
 public interface MemberService extends IService<Member> {
 

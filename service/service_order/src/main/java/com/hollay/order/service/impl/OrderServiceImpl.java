@@ -17,9 +17,6 @@ import java.util.Map;
  * <p>
  * 订单 服务实现类
  * </p>
- *
- * @author hollay
- * @since 2021-08-12
  */
 @Service
 public class OrderServiceImpl extends ServiceImpl<OrderMapper, Order> implements OrderService {

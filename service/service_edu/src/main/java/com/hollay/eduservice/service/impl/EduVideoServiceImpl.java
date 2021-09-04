@@ -20,8 +20,6 @@ import java.util.stream.Collectors;
  * 课程视频 服务实现类
  * </p>
  *
- * @author hollay
- * @since 2021-07-20
  */
 @Service
 public class EduVideoServiceImpl extends ServiceImpl<EduVideoMapper, EduVideo> implements EduVideoService {

@@ -16,9 +16,6 @@ import java.util.List;
  * <p>
  * 前台bannber显示
  * </p>
- *
- * @author testjava
- * @since 2020-03-07
  */
 @RestController
 @RequestMapping("/educms/bannerfront")

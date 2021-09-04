@@ -17,8 +17,6 @@ import lombok.experimental.Accessors;
  * 订单
  * </p>
  *
- * @author hollay
- * @since 2021-08-12
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

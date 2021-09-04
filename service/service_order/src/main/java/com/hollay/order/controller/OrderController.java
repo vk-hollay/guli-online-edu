@@ -16,8 +16,6 @@ import javax.servlet.http.HttpServletRequest;
  * 订单 前端控制器
  * </p>
  *
- * @author hollay
- * @since 2021-08-12
  */
 @RestController
 @CrossOrigin

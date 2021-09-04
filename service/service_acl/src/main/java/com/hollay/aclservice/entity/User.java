@@ -14,9 +14,6 @@ import lombok.experimental.Accessors;
  * <p>
  * 用户表
  * </p>
- *
- * @author testjava
- * @since 2020-01-12
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

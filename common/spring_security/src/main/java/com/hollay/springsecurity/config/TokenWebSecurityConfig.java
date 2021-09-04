@@ -25,9 +25,6 @@ import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
  * <p>
  * Security配置类
  * </p>
- *
- * @author qy
- * @since 2019-11-18
  */
 @Configuration
 @EnableWebSecurity

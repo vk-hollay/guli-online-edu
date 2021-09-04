@@ -14,9 +14,6 @@ import java.util.List;
  * <p>
  * 首页banner表 服务实现类
  * </p>
- *
- * @author hollay
- * @since 2021-08-05
  */
 @Service
 public class CrmBannerServiceImpl extends ServiceImpl<CrmBannerMapper, CrmBanner> implements CrmBannerService {

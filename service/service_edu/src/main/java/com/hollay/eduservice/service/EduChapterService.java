@@ -10,9 +10,6 @@ import java.util.List;
  * <p>
  * 课程 服务类
  * </p>
- *
- * @author hollay
- * @since 2021-07-20
  */
 public interface EduChapterService extends IService<EduChapter> {
 

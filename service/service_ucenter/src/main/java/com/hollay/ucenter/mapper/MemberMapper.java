@@ -8,8 +8,6 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 会员表 Mapper 接口
  * </p>
  *
- * @author hollay
- * @since 2021-08-08
  */
 public interface MemberMapper extends BaseMapper<Member> {
 

@@ -41,7 +41,6 @@ import java.util.Set;
 
 /**
  *  依赖的jar包有：commons-lang-2.6.jar、httpclient-4.3.2.jar、httpcore-4.3.1.jar、commons-io-2.4.jar
- * @author zhaoyb
  *
  */
 public class HttpClientUtils {

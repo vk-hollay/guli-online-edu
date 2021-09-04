@@ -18,8 +18,6 @@ import java.util.Map;
  * 会员表 前端控制器
  * </p>
  *
- * @author hollay
- * @since 2021-08-08
  */
 @RestController
 @CrossOrigin

@@ -13,8 +13,6 @@ import java.util.Map;
  * 网站统计日数据 前端控制器
  * </p>
  *
- * @author hollay
- * @since 2021-08-13
  */
 @RestController
 @CrossOrigin

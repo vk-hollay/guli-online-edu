@@ -10,8 +10,6 @@ import com.hollay.eduservice.entity.vo.CoursePublishVo;
  * 课程 Mapper 接口
  * </p>
  *
- * @author hollay
- * @since 2021-07-20
  */
 public interface EduCourseMapper extends BaseMapper<EduCourse> {
 

@@ -25,8 +25,6 @@ import java.util.List;
  * 课程科目 服务实现类
  * </p>
  *
- * @author hollay
- * @since 2021-07-18
  */
 @Service
 public class EduSubjectServiceImpl extends ServiceImpl<EduSubjectMapper, EduSubject> implements EduSubjectService {

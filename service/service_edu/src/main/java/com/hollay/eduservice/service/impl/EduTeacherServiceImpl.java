@@ -19,8 +19,6 @@ import java.util.Map;
  * 讲师 服务实现类
  * </p>
  *
- * @author hollay
- * @since 2021-05-07
  */
 @Service
 public class EduTeacherServiceImpl extends ServiceImpl<EduTeacherMapper, EduTeacher> implements EduTeacherService {

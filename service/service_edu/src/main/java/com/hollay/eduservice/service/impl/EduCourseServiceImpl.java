@@ -31,8 +31,6 @@ import java.util.Map;
  * 课程 服务实现类
  * </p>
  *
- * @author hollay
- * @since 2021-07-20
  */
 @Service
 @Transactional

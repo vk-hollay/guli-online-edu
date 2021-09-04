@@ -22,9 +22,6 @@ import java.util.List;
  * <p>
  * 讲师 前端控制器
  * </p>
- *
- * @author hollay
- * @since 2021-05-07
  */
 
 @Api(description = "讲师管理")

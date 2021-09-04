@@ -12,8 +12,6 @@ import java.util.Map;
  * 讲师 服务类
  * </p>
  *
- * @author hollay
- * @since 2021-05-07
  */
 public interface EduTeacherService extends IService<EduTeacher> {
 
