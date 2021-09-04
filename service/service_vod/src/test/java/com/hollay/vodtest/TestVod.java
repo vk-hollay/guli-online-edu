@@ -30,7 +30,7 @@ public class TestVod {
     //根据视频ID获取视频播放地址 (若为加密视频则通过地址无法获取播放，此时需要用视频播放凭证)
     public static void getPlayUrl() throws ClientException {
         //创建初始化对象
-        DefaultAcsClient client = InitObject.initVodClient("LTAI5tExjpTx8m2cPVqVVgFW", "CskvfDBXHuNDI1LA0et2TOjxsheTr9");
+        DefaultAcsClient client = InitObject.initVodClient("XXX", "XXX");
         //创建获取视频地址request和response
         GetPlayInfoRequest request = new GetPlayInfoRequest();
         GetPlayInfoResponse response = new GetPlayInfoResponse();
@@ -51,7 +51,7 @@ public class TestVod {
     // 根据视频ID获取视频播放凭证 （无论视频加密与否都可通过视频播放凭证获取播放）
     public static void getPlayAuth() throws Exception {
         //创建初始化对象
-        DefaultAcsClient client = InitObject.initVodClient("LTAI5tExjpTx8m2cPVqVVgFW", "CskvfDBXHuNDI1LA0et2TOjxsheTr9");
+        DefaultAcsClient client = InitObject.initVodClient("XXX", "XXX");
         //创建获取视频凭证request和response
         GetVideoPlayAuthRequest request = new GetVideoPlayAuthRequest();
         GetVideoPlayAuthResponse response = new GetVideoPlayAuthResponse();
@@ -64,7 +64,7 @@ public class TestVod {
 
     // 将本地视频上传到阿里云
     public static void uploadVideo() {
-        String accessKeyId = "LTAI5tExjpTx8m2cPVqVVgFW";
+        String accessKeyId = "XXX";
         String accessKeySecret = "CskvfDBXHuNDI1LA0et2TOjxsheTr9";
         String title = "6- What If I Want to Move Faster - upload by sdk";   //上传之后文件名称
         String fileName = "C:\\Users\\ASUS\\Desktop\\6 - What If I Want to Move Faster.mp4";  //本地文件路径和名称
